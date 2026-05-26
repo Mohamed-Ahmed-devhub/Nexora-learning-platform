@@ -2,10 +2,14 @@
 body {
   font-family: "Inter", sans-serif;
   padding-top: 17px !important;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 html {
 scroll-behavior: smooth; 
-}
+max-width: 100%;
+    overflow-x: hidden;
+  }
 
 .nav-link {
   font-weight: 500;
